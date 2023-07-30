@@ -1,7 +1,7 @@
 {
   "name": "chrome-ext-mv3-starter",
-  "displayName": "[name]",
-  "description": "[description]",
+  "displayName": "Giffy",
+  "description": "Markdown-friendly giphys in a jiffy",
   "version": "0.0.1",
   "private": true,
   "scripts": {
